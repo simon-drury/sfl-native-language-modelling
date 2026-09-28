@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or refer to this proposal, please cite it as below."
+title: "An SFL-Native Architecture for Meaning-State Language Modelling"
+authors:
+  - family-names: Drury
+    given-names: Simon
+type: article
+status: draft
+version: 0.1
+date-released: 2026-09-28
+abstract: "A doctoral research proposal for an SFL-native architecture for meaning-state language modelling."
+repository-code: "https://github.com/simon-drury/sfl-native-language-modelling"
